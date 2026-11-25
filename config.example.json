@@ -1,0 +1,18 @@
+{
+  "_comment": "Copy to ~/.config/company-aios/config.json and fill in. Skills read these names; nothing here is secret, so never put keys or tokens in this file.",
+  "company": "Example Co",
+  "owner_name": "Sam",
+  "coo_handle": "coo",
+  "reviewer_handle": "reviewer",
+  "lanes": ["lane1", "lane2", "lane3"],
+  "max_review_rounds": 3,
+  "room_channels": ["#general", "#exec"],
+  "queue_file": "~/work/shared/QUEUE.md",
+  "packet_root": "~/work/shared/inbox",
+  "state_file": "~/work/coo/STATE.md",
+  "handoffs_dir": "~/.claude/plans",
+  "notes_dir": "~/notes",
+  "daily_logs_dir": "~/notes/Daily",
+  "needs_you_file": "~/notes/NEEDS-YOU.md",
+  "transcripts_dir": "~/.claude/projects"
+}
